@@ -1,2 +1,2 @@
 # Data_Projects
-This is a compliation of data projects i have worked on
+This is a compliation of some data projects i worked on

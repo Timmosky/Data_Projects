@@ -1,2 +1,7 @@
-Prize Categorization with Python
+In this video, I walk you through writing a simple Python script to categorize the prices of oranges into two bags based on their cost.
+We start with a list of prices ranging from $23 to $70 and use a for loop to check if each price is less than or equal to $50 for the small bag, or greater for the medium bag.
+I demonstrate how to append these prices to the respective lists and print the results. 
+Please follow along and run the code in your Python 3 environment to see the output for yourself. Let’s get started!
+
+Link to video here:
 https://www.loom.com/share/bbd82cf8e3144994b08a947eff7adaa1
